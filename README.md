@@ -1,1 +1,1 @@
-# Azure-sample-project-pipeline
+# Azure-DE-Project-Resources
